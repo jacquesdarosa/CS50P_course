@@ -1,0 +1,21 @@
+
+'''def hello(to):
+    print('hello,', to)
+
+name = input('what is your name?')
+hello(name)'''
+
+# different exercise
+x = input('enter x: ')
+y = input('enter y: ')
+
+z = int(x) + int(y)
+
+# print(int(x) + int(y))
+
+
+''' or x = int(input(enter x:')
+       y = int(input(enter y:')
+
+
+print(f"{z:.2f}")'''
